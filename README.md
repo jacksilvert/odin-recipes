@@ -1,0 +1,1 @@
+This is my first HTML project working through steps provided by the Odin Project. My end goal is to build a foundational skillset to allow me to pivot from my current career. Goodluck me :)
